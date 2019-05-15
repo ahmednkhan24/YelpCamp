@@ -1,0 +1,35 @@
+
+/* what the images are inside of */
+.thumbnail {
+    padding: 0;
+}
+
+/* all img tags that are inside thumbnails */
+.thumbnail img {
+    width: 100%;
+}
+
+/* all elements with class caption-full that are inside a thumbnail */
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.new-edit-form {
+    width: 30%; 
+    margin: 0 auto; 
+    padding: 25px;
+}
+
+.new-edit-h1 {
+    text-align: center;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 20px;
+}
